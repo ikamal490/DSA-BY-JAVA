@@ -1,4 +1,4 @@
-package _27_Divide_Conquer;
+package _027_Divide_Conquer;
 
 public class _02_QuickSort {
     public static void printArr(int[] arr){
