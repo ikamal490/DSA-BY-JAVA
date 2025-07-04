@@ -1,4 +1,4 @@
-package _26_Recursion_Part_II;
+package _026_Recursion_Part_II;
 
 // Binary Strings Problem
 public class _04_Binary_Strings_Problem {
