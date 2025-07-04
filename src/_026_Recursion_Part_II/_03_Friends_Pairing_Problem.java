@@ -1,4 +1,4 @@
-package _26_Recursion_Part_II;
+package _026_Recursion_Part_II;
 // Friends Pairing Problem
 
 public class _03_Friends_Pairing_Problem {
