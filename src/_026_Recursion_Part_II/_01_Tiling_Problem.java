@@ -1,4 +1,4 @@
-package _26_Recursion_Part_II;
+package _026_Recursion_Part_II;
 
 //Tiling Problem
 public class _01_Tiling_Problem {
