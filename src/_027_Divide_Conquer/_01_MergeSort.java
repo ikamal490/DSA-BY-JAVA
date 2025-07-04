@@ -1,4 +1,4 @@
-package _27_Divide_Conquer;
+package _027_Divide_Conquer;
 
 public class _01_MergeSort {
     public static void printArr(int[] arr){
