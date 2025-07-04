@@ -1,4 +1,4 @@
-package _26_Recursion_Part_II;
+package _026_Recursion_Part_II;
 
 // Remove Duplicate in String
 public class _02_Remove_Duplicate_in_String {
